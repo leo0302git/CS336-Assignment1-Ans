@@ -24,10 +24,14 @@
 - 涉及数据集的内容需要提前准备好
 - 本作业内容<u>没有</u>完成消融实验，也没有在OpenWebText数据集上进行训练（TODO）
 
-下面是运行 `uv run.txt`中的所有命令，通过所有检查点后的截图
+下面是运行 `uv run.txt`中的所有命令，通过所有检查点后的视频和截图
 
 ![image](https://github.com/leo0302git/CS336-Assignment1-Ans/blob/main/README.assets/image-20251128191744788.png)
+
+https://github.com/user-attachments/assets/1da948cc-57db-4cc8-a709-5fddb9b7d04f
 
 下面是在tinystories数据集上的训练结果
 
 ![image](https://github.com/leo0302git/CS336-Assignment1-Ans/blob/main/README.assets/image-20251128191936690.png)
+
+
