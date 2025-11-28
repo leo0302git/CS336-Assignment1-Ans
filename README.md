@@ -26,8 +26,8 @@
 
 下面是运行 `uv run.txt`中的所有命令，通过所有检查点后的截图
 
-![image-20251128191744788](C:\Users\Leo\Desktop\111\README.assets\image-20251128191744788.png)
+![image](https://github.com/leo0302git/CS336-Assignment1-Ans/blob/main/README.assets/image-20251128191744788.png)
 
 下面是在tinystories数据集上的训练结果
 
-![image-20251128191936690](C:\Users\Leo\Desktop\111\README.assets\image-20251128191936690.png)
+![image](https://github.com/leo0302git/CS336-Assignment1-Ans/blob/main/README.assets/image-20251128191936690.png)
